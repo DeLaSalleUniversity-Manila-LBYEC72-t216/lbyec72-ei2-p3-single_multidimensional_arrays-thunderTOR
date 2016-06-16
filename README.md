@@ -1,7 +1,7 @@
 # Activity3_Dagdagan
 ![](Activity3_1.png)
 ```
-![](Activity3_2.png)
+![](https://github.com/thunderTOR/Activity3_Dagdagan/blob/master/Activity3_2.png)
 ```
 ![](Activity3_3.png)
 ```
