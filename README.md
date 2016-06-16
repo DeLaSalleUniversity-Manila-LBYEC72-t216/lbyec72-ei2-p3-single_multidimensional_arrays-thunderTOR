@@ -5,6 +5,6 @@
 ```
 ![](Activity3_3.png)
 ```
-![](Activity3_4_0.png)
+![](Activity3_4.png)
 ```
 ![](Activity3_4_1.png)
